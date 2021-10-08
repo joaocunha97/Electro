@@ -1,0 +1,38 @@
+
+#container {
+    width: 70%;
+    margin: auto;
+  }
+
+  table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+  }
+
+  table.normal {
+    border: 2px solid #279be4 !important;
+  }
+
+  thead {
+    background: #279be4 !important;
+    color: white !important;
+  }
+
+  th, td {
+    text-align: center !important;
+    padding: 5px 0 !important;
+  }
+
+  tbody tr:nth-child(even) {
+    background: #ECF0F1 !important;
+  }
+
+  /* tbody tr:hover {
+    background: #BDC3C7;
+    color: #FFFFFF;
+  } */
+
+
+  .end {
+    margin-top: 800px !important;
+  }
